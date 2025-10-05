@@ -1,1 +1,0 @@
-FEAR_GREED_INDEX_URL = "https://api.alternative.me/fng/?limit={limit}&format={format}"
